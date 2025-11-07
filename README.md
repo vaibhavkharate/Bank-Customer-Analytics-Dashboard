@@ -68,22 +68,6 @@ This project helped me strengthen my understanding of **DAX, data modeling, and 
 
 ---
 
-### 🧭 Dashboard Preview  
-
-#### 🏠 Home Page
-![Home Dashboard](./Screenshot1.png)
-
-#### 💰 Deposit Analysis
-![Deposit Analysis](./Screenshot2.png)
-
-#### 📄 Loan Analysis
-![Loan Analysis](./Screenshot3.png)
-
-#### 📋 Summary & Drill-Through
-![Drill Through](./4. Summary.png)
-
----
-
 ### 📚 Key Learnings  
 - Connecting, transforming, and cleaning datasets in Power Query.  
 - Designing dashboards using Power BI visuals with consistent color themes.  
