@@ -80,7 +80,7 @@ This project helped me strengthen my understanding of **DAX, data modeling, and 
 ![Loan Analysis](./Screenshot3.png)
 
 #### 📋 Summary & Drill-Through
-![Drill Through](./Screenshot4.png)
+![Drill Through](./4. Summary.png)
 
 ---
 
@@ -106,7 +106,7 @@ If you’d like to explore the live dashboard:
 ### 👨‍💻 About the Developer  
 
 **Vaibhav Subhash Kharate**  
-📍 Nagpur, India  
+📍 Pune, India  
 📧 [vaibhav.s.kharate@gmail.com](mailto:vaibhav.s.kharate@gmail.com)  
 🔗 [LinkedIn Profile](#) *(www.linkedin.com/in/vaibhavkharate)*  
 
